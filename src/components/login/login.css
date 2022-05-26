@@ -1,0 +1,11 @@
+.login-form-container{
+    display: block;
+    background-color: blanchedalmond;
+    margin: auto;
+}
+
+.login-form{
+    display: block;
+    align-items: center;
+    margin-top: 50px;
+}

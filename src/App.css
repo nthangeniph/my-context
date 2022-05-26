@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #c5531f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+.login-form-container{
+  display: block;
+  background-color: white;
+  width: 500px;
+  height: 300px;
+  align-items: center;
+  
+  justify-content: center;
 }
